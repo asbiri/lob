@@ -1,0 +1,3 @@
+ps -A | grep mongo
+
+
